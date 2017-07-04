@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>3rd Party Libraries</comment>
+<entry key="createdBy">24374</entry>
+<entry key="name">3rdpartylibs</entry>
+<entry key="created">2017-06-28T16:55:24.540+0530</entry>
+<entry key="groupId">com.itc</entry>
+<entry key="version">0.1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">ITC</entry>
+<entry key="description">3rd Party Libraries</entry>
+<entry key="artifactId">3rdpartylibs</entry>
+<entry key="path">/etc/packages/ITC/3rdpartylibs.zip</entry>
+</properties>
